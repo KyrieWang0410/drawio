@@ -1,10 +1,10 @@
-<mxfile host="Electron" modified="2023-07-26T10:21:51.617Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="CpGw1VtcrPx-57kxmuNf" version="21.6.5" type="device">
-  <diagram name="对象和类之间的关系：从弱到强" id="jCaJryhr8M6eM0-1dfTM">
-    <mxGraphModel dx="2793" dy="976" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="1">
+<mxfile host="Electron" modified="2023-07-26T11:07:01.906Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="NKH0sYVxvFN1v48cYNDA" version="21.6.5" type="device">
+  <diagram name="对象和类之间的关系" id="jCaJryhr8M6eM0-1dfTM">
+    <mxGraphModel dx="2985" dy="1398" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="F7TPWeGrjfN6PPOd-E80-7" value="" style="group;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" connectable="0" parent="1">
+        <mxCell id="F7TPWeGrjfN6PPOd-E80-7" value="" style="group;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-992" y="200" width="1174" height="780" as="geometry" />
         </mxCell>
         <mxCell id="MLkjTBWtV1qllIKsfvOt-6" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;strokeColor=none;spacing=9;labelBorderColor=none;fontColor=default;" parent="F7TPWeGrjfN6PPOd-E80-7" vertex="1" connectable="0">
@@ -124,10 +124,10 @@
         <mxCell id="l19KTVMMG9-ZsjpJcLc6-7" value="依赖" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=1;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontSize=20;fontFamily=Architects Daughter;shadow=1;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="MLkjTBWtV1qllIKsfvOt-5" vertex="1">
           <mxGeometry x="177" width="80" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="F7TPWeGrjfN6PPOd-E80-2" value="" style="shape=card;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=none;size=85;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="F7TPWeGrjfN6PPOd-E80-7">
+        <mxCell id="F7TPWeGrjfN6PPOd-E80-2" value="" style="shape=card;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=none;size=85;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="F7TPWeGrjfN6PPOd-E80-7" vertex="1">
           <mxGeometry width="1174" height="780" as="geometry" />
         </mxCell>
-        <mxCell id="F7TPWeGrjfN6PPOd-E80-6" value="对象和类之间的关系：从弱到强" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="F7TPWeGrjfN6PPOd-E80-7">
+        <mxCell id="F7TPWeGrjfN6PPOd-E80-6" value="对象和类之间的关系：从弱到强" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="F7TPWeGrjfN6PPOd-E80-7" vertex="1">
           <mxGeometry x="462" y="716" width="434" height="30" as="geometry" />
         </mxCell>
       </root>
